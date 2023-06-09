@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.appCont1 {
+  align-items: center;
+  border-radius: 9px;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  background-color: white;
+  border-radius: 10px;
+  align-items: center;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.i1 {
+  height: 80px;
+  width: 80px;
+}
+
+.head {
+  color: #1e293b;
+  padding-top: 0px;
+}

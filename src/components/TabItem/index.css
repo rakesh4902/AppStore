@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.tabHead {
+  color: #7b8794;
+  font-size: 20px;
+  border: 0px;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.activeT {
+  color: #2563eb;
+  border-bottom: 2px solid;
+}
+
+.line {
+  font-size: large;
+  color: #7b8794;
+}
+
+@media screen and (max-width: 576px) {
+  .tabHead {
+    font-size: 14px;
+  }
+}
